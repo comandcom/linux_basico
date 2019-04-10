@@ -33,4 +33,6 @@ POSIX es un estandar de como hacer un sistema operativo. Este estandar lo maneja
 * Es libre
 * El poder de lo simple
 
+## Estructura de archivos
 
+![ups](./assets/filesystem.png "Imagen de referencia de estructura de archivos")
