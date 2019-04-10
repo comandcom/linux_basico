@@ -75,3 +75,6 @@ grep (grep palabra archivo)-> Busca linea por linea de un archivo si contiene la
 * apt-get install paquete -> Instala un paquete
 * dpkg --list -> Lista paquetes instalados
 * apt-get --purge remove paquete -> Desinstala un paquete
+
+## Taller
+[Realice el taller propuesto para afianzar conocimientos](./LinuxTaller.pdf)
