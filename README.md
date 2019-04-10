@@ -2,7 +2,7 @@
 
 Este curso busca dar una vista general y basica del entorno linux. Este explica un poco de la historia para entender desde sus origenes que lo hace tan robusto. Ademas se explican comandos basicos de navegacion, estructura de los directorios, permisos e instalacion de paquetes usando apt.
 
-El curso esta montado en [youtube](https://www.youtube.com/watch?v=FR5yo68rk8c).
+El curso esta montado en [youtube](https://www.youtube.com/watch?v=FR5yo68rk8c), utilicelo para guiarse con esta documentacion.
 
 ## Historia
 
