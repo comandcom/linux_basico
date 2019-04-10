@@ -61,8 +61,8 @@ grep (grep palabra archivo)-> Busca linea por linea de un archivo si contiene la
 ### Redireccion de salida estandar
 
 * | -> Envia resultado del primer programa como entrada del segundo (ej. ls /etc | grep va, este comando lista los contenidos de la carpeta /etc y muestra solamente aquellos que contienen "va")
-* > -> Toda salida que tenga un programa la guarda en un archivo, si ya existe ese archivo lo borra y escribe desde 0 (ej. ls /etc > lectura, Este comando guarda en un archivo que se llama "lectura" los contenidos del directorio /etc)
-* >> -> Toda salida que tenga un programa la guarda en un archivo, si ya existe ese archivo escribe abajo de todo lo que tiene escrito (ej. ls /etc > lectura, Este comando guarda en un archivo que se llama "lectura" los contenidos del directorio /etc)
+* ">" -> Toda salida que tenga un programa la guarda en un archivo, si ya existe ese archivo lo borra y escribe desde 0 (ej. ls /etc > lectura, Este comando guarda en un archivo que se llama "lectura" los contenidos del directorio /etc)
+* ">>" -> Toda salida que tenga un programa la guarda en un archivo, si ya existe ese archivo escribe abajo de todo lo que tiene escrito (ej. ls /etc > lectura, Este comando guarda en un archivo que se llama "lectura" los contenidos del directorio /etc)
 
 ## Permisos
 
